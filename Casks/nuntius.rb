@@ -1,4 +1,4 @@
-cask "Nuntius" do
+cask "nuntius" do
     version "1.0.0-beta.1"
     # sha256 "336cb1b7e055d3638e562e63539e90db4a795f738d67ca377c2e9dfac8670924"
 
